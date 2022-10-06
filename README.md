@@ -9,11 +9,7 @@
  
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrettsc&show_icons=true&theme=radical)](https://github.com/mbrettsc/mbrettsc)
 </div>
-<div align="right"> 
 
-
-
-</div> 
 <h1 align="center">I'm Martin Brettschneider</h1>
 <h3 align="center">42 Student</h3>
 
