@@ -13,9 +13,7 @@
 <h1 align="center">I'm Martin Brettschneider</h1>
 <h3 align="center">42 Student</h3>
 
-- 🌱 I’m currently learning **C**
-
-- 📫 How to reach me **burakmartin007@outlook.com**
+-  Discord id **MartinN#4897**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
