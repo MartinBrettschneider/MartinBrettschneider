@@ -22,7 +22,7 @@
  My Github Stats 
 
  
-[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinBrettschneider&theme=radical&show_icons=true")](https://github.com/martinbrettschneider/martinbrettschneider)  
+[![Martin's github stats](https://github-readme-stats.vercel.app/api??username=MartinBrettschneider&show_icons=true&theme=radical)](https://github.com/martinbrettschneider/martinbrettschneider)  
 
 </div> 
 
