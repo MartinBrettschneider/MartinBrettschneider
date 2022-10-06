@@ -13,7 +13,7 @@
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Martin' src='https://img.shields.io/badge/I_am Martin Brettschneider-100000?style=for-the-badge&logo=Martin&logoColor=FFFFFF&labelColor=FFFFFF&color=7600BA'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Martin' src='https://img.shields.io/badge/42_Student-100000?style=for-the-badge&logo=Martin&logoColor=FFFFFF&labelColor=FFFFFF&color=93015E'/></a>
 </div>
--  Discord id **MartinN#4897**
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Discord_id = MartinN4897-100000?style=plastic&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
