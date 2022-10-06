@@ -1,3 +1,8 @@
+<div align="center">  
+
+[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinBrettschneider&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/martinbrettschneider/martinbrettschneider)  
+</div> 
+
 <div align="center"> 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/stats?cursusId=21&coalitionId=234" alt="mbrettsc's 42 stats"/></a>
 </div>
