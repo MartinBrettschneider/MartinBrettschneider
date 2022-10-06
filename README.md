@@ -23,5 +23,8 @@
   
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinBrettschneider&title_color=fff&&theme=radical&show_icons=true)](https://github.com/martinbrettschneider/martinbrettschneider)  
 </div> 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinBrettschneider&layout=compact)]
 
 <div align="center"> 
+ 
+
