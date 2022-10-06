@@ -19,7 +19,7 @@
 <div align="center">  
 <div align="center">  
 
-[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinBrettschneider&title_color=fff&&theme=radical=true)](https://github.com/martinbrettschneider/martinbrettschneider)  
+[![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinBrettschneider&title_color=fff&&theme=radical)](https://github.com/martinbrettschneider/martinbrettschneider)  
 </div> 
 
 <div align="center"> 
