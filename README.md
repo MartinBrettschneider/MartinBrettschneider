@@ -1,4 +1,4 @@
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/stats?cursusId=21&coalitionId=234" alt="mbrettsc's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/stats?cursusId=21&coalitionId=234" alt="mbrettsc's 42 stats" width="40"/></a>
 <h1 align="center">Hi 👋, I'm Martin Brettschneider</h1>
 <h3 align="center">42 Learner</h3>
 
