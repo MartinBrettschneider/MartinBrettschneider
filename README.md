@@ -10,7 +10,7 @@
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrettsc&show_icons=true&theme=radical)](https://github.com/mbrettsc/mbrettsc)
 </div>
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Martin' src='https://img.shields.io/badge/I'am_Martin Brettschneider-100000?style=for-the-badge&logo=Martin&logoColor=000000&labelColor=FF0000&color=8000CA/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Martin' src='https://img.shields.io/badge/I'am_Martin Brettschneider-100000?style=for-the-badge&logo=Martin&logoColor=000000&labelColor=FF0000&color=8000CA''/></a>
 <h3 align="center">42 Student</h3>
 
 -  Discord id **MartinN#4897**
