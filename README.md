@@ -20,7 +20,7 @@
  
 
  My Github Stats 
-  </div> 
+
  
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=MartinBrettschneider&title_color=fff&&theme=radical&show_icons=true)](https://github.com/martinbrettschneider/martinbrettschneider)  
 
