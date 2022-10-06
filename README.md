@@ -1,4 +1,9 @@
+<div align="center"> 
+ 
 ![berserk-guts](https://user-images.githubusercontent.com/99292553/194403688-07b590af-66b7-46ba-94c0-0204ae78763a.gif)
+ 
+ </div>
+ 
 <div align="center">  
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/stats?cursusId=21&coalitionId=234" alt="mbrettsc's 42 stats"/></a>
 </div>
