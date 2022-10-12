@@ -27,7 +27,7 @@
 </div>
 <div align="right"> 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrettsc&layout=compact)](https://github.com/mbrettsc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrettsc&layout=dark)](https://github.com/mbrettsc/github-readme-stats)
 
 </div>
 
