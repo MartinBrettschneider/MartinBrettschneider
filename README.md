@@ -1,7 +1,7 @@
 <div align="center"> 
  
-![berserk-guts](https://user-images.githubusercontent.com/99292553/194403688-07b590af-66b7-46ba-94c0-0204ae78763a.gif)
- 
+ ![berserk-gif](https://user-images.githubusercontent.com/99292553/197417097-dc9b44b4-8179-4cb3-b46e-3460361d3bb7.gif)
+
  </div>
  
 <div align="center">  
