@@ -5,7 +5,7 @@
  </div>
  
 <div align="center">  
-[![<mbrettsc>'s 42 stats](https://badge.mediaplus.ma/levi/mbrettsc)](https://github.com/mbrettsc/mbrettsc)
+[![<mbrettsc>'s 42 stats](https://badge.mediaplus.ma/levi/mbrettsc)]([https://github.com/mbrettsc/mbrettsc](https://github.com/mbrettsc/mbrettsc/edit/main/README.md))
  </a>
  
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrettsc&show_icons=true&theme=radical)]([https://github.com/mbrettsc/mbrettsc](https://github.com/mbrettsc/mbrettsc/blob/main/README.md))
