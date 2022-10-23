@@ -29,7 +29,6 @@
 <div align="left"> 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbrettsc&layout=dark)](https://github.com/mbrettsc/github-readme-stats)
-
 </div>
 
 
