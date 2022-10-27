@@ -1,9 +1,3 @@
-<div align="center"> 
- 
- ![berserk-gif](https://user-images.githubusercontent.com/99292553/197417097-dc9b44b4-8179-4cb3-b46e-3460361d3bb7.gif)
-
- </div>
- 
 <div align="center">  
 
 [![mbrettsc's 42 stats](https://badge.mediaplus.ma/levi/mbrettsc)](https://github.com/mbrettsc/mbrettsc)
