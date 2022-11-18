@@ -10,7 +10,6 @@
 </div>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Discord_id = MartinN4897-100000?style=plastic&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbrettsc" alt="mbrettsc" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
