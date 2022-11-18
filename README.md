@@ -1,6 +1,6 @@
 <div align="center">  
 
-[![mbrettsc's 42 stats](https://badge.mediaplus.ma/levi/mbrettsc)](https://github.com/mbrettsc/mbrettsc)
+[![mbrettsc's 42 stats](https://badge42.vercel.app/api/v2/cl8vu6qy400210glbg0qg34io/stats?cursusId=21&coalitionId=234)](https://github.com/JaeSeoKim/badge42)
  
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrettsc&show_icons=true&theme=radical)]([https://github.com/mbrettsc/mbrettsc](https://github.com/mbrettsc/mbrettsc/blob/main/README.md))
 </div>
