@@ -1,8 +1,3 @@
-<div align="center">  
- 
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbrettsc&show_icons=true&theme=radical)]([https://github.com/mbrettsc/mbrettsc](https://github.com/mbrettsc/mbrettsc/blob/main/README.md))
- 
-</div>
 <div align="center"> 
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Martin' src='https://img.shields.io/badge/I_am Martin Brettschneider-100000?style=for-the-badge&logo=Martin&logoColor=FFFFFF&labelColor=FFFFFF&color=7600BA'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Martin' src='https://img.shields.io/badge/42_Student-100000?style=for-the-badge&logo=Martin&logoColor=FFFFFF&labelColor=FFFFFF&color=93015E'/></a>
